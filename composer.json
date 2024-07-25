@@ -1,12 +1,12 @@
 {
-    "name": "hootlex/laravel-friendships",
+    "name": "xeronerold/laravel-friends-fork",
     "description": "This package gives Eloquent models the ability to manage their friendships. Frok Xeroner",
     "keywords": ["laravel", "friendships", "friend-system", "friends", "eloquent"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Hootlex",
-            "email": "hootlex@icloud.com"
+            "name": "Xeroner",
+            "email": "kontakt@code0.pl"
         }
     ],
     "autoload-dev": {
